@@ -13,14 +13,15 @@
 	</p>
 </div>
 <h3>Demo Link:</h3>
-&nbsp; https://myclientpanelapp.herokuapp.com
+&nbsp;   https://mystorybooks.herokuapp.com 
 <br>
 <h3>Commands:</h3>
 	&nbsp;<span>sudo npm install &nbsp;&nbsp;&nbsp;//for install node_modules</span>
 	<br/>
-	&nbsp;<span>sudo npm run build &nbsp;&nbsp;&nbsp;//for build</span>
-	<br/>
-	&nbsp;<span>sudo npm start &nbsp;&nbsp;&nbsp;//for run server</span>
+	&nbsp;<span>sudo npm start &nbsp;&nbsp;&nbsp;//for run application on server</span>
+<br>
+<h3>About App:</h3>
+        <p>Soical network for creating public or private stories.Users can shoose to allow or disable comments perstory Uses Google OAuth</p>
 	
 
 
