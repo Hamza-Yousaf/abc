@@ -21,7 +21,7 @@
 	&nbsp;<span>sudo npm start &nbsp;&nbsp;&nbsp;//for run application on server</span>
 <br>
 <h3>About App:</h3>
-        <p>Soical network for creating public or private stories.Users can shoose to allow or disable comments perstory Uses Google OAuth</p>
+        <p>Soical network for creating public or private stories.Users can choose to allow or disable comments per story Uses Google OAuth</p>
 	
 
 
