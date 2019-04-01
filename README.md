@@ -27,7 +27,7 @@
 	&nbsp;<span>sudo npm run server &nbsp;&nbsp;&nbsp;//Run the Express server only</span>
 	<br>
 	&nbsp;<span>sudo npm run client &nbsp;&nbsp;&nbsp;//Run the React client only</span>
-	<br>
+	<br>br>br>
 	&nbsp;<span>Server runs on http://localhost:5000 and client on http://localhost:3000</span>
 <br>
 <h3>About App:</h3>
