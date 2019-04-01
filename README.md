@@ -15,7 +15,7 @@
 	</p>
 </div>
 <h3>Demo Link:</h3>
-&nbsp;   https://
+&nbsp;   https://my-devconnector.herokuapp.com/
 <br>
 <h3>Commands:</h3>
 	&nbsp;<span>sudo npm install &nbsp;&nbsp;&nbsp;//Install dependencies for server</span>
