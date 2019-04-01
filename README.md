@@ -31,7 +31,7 @@
 	&nbsp;<span>Server runs on http://localhost:5000 and client on http://localhost:3000</span>
 <br>
 <h3>About App:</h3>
-        <p>Small social network with authentication,profiles,dashboard,posts</p>
+        <p>Small social network with Authentication,Profile,Dashboard,Posts etc</p>
 	
 	
 
