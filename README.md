@@ -2,7 +2,7 @@
 <h3>Snapshot:</h3>
 <div align="center">
  <p float="left">
-  <img src="https://user-images.githubusercontent.com/38814709/56764359-ef226780-67bd-11e9-800f-7832133faf77.png" width="700" height="500"/>
+  <img src="https://user-images.githubusercontent.com/38814709/56764359-ef226780-67bd-11e9-800f-7832133faf77.png" width="400" height="700"/>
 	 <br/>
   <img src="https://user-images.githubusercontent.com/38814709/56764362-efbafe00-67bd-11e9-87e5-8836c31af469.png" width="430" height="300"/> 
   <img src="https://user-images.githubusercontent.com/38814709/56764361-efbafe00-67bd-11e9-970f-10be33073aef.png" width="430" height="300"/>
