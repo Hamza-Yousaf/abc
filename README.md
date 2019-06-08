@@ -2,7 +2,7 @@
 <h3>Snapshot:</h3>
 <div align="center">
  <p float="left">
-  <img src="https://user-images.githubusercontent.com/38814709/59149544-ba960280-8a2f-11e9-8c7e-b7f638ae538b.png" width="700" height="900"/>
+  <img src="https://user-images.githubusercontent.com/38814709/59149544-ba960280-8a2f-11e9-8c7e-b7f638ae538b.png" width="600" height="900"/>
 	 <br/>
 	</p>
 </div>
