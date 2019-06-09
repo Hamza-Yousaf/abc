@@ -1,15 +1,17 @@
-
-<h3>Snapshot:</h3>
 <div align="center">
  <p float="left">
-  <img src="https://user-images.githubusercontent.com/38814709/59149544-ba960280-8a2f-11e9-8c7e-b7f638ae538b.png" width="600" height="1000"/>
+  <img src="https://user-images.githubusercontent.com/38814709/59161439-19c14900-8afc-11e9-9050-95c4455dfc0d.png" width="500" height="900"/>
 	 <br/>
+  <img src="https://user-images.githubusercontent.com/38814709/59161440-1a59df80-8afc-11e9-8aba-e3ec728fc0da.png" width="400" height="400"/> 
+  <img src="https://user-images.githubusercontent.com/38814709/59161437-18901c00-8afc-11e9-9fa2-b9ece932a699.png" width="400" height="400"/>
+  <img src="https://user-images.githubusercontent.com/38814709/59161438-18901c00-8afc-11e9-9837-baa30cbbd256.png" width="400" height="400"/> 
+  <img src="https://user-images.githubusercontent.com/38814709/59161436-18901c00-8afc-11e9-9fa5-226a4afd5295.png" width="400" height="400"/>
 	</p>
 </div>
 <br>
-<h3>Travelville:</h3>
+<h3>Madmin:</h3>
 <p>
-	Use for travel agency.Include Carousel Slider,Autocomplete,Card,icon,Collections,Form,Badges etc.
+	Madmin is a most interactive project Javascript & JQuery.Used canvas.js for chart.Include Animation,Progress,Form,Pagination etc.
 </p>
 
 
